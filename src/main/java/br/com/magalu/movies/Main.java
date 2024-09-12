@@ -68,7 +68,7 @@ public class Main {
     public static void main(String[] args) throws IOException, InterruptedException {
 
         if (args.length < 2) {
-            System.out.println("Uso: java -jar search.jar <diretorio> <palavra>");
+            System.out.println("Uso: java -jar movies-search.jar <diretorio> <palavra>");
             return;
         }
 
